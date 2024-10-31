@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @udhyaa
-- 👀 I’m interested in GitHup projects
-- 🌱 I’m currently learning SQL,Python
+- 👋 Hi, I’m @Udhayaa
+- 👀 I’m interested in GitHub projects
+- 🌱 I’m currently learning SQL,Python,Java Fullstack 
 - 💞️ I’m looking to collaborate on : work platforms and my placements offer
 - 📫 How to reach me umaudhayaa@gmail.com
 - 😄 Pronouns: dhiya
